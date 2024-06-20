@@ -1,0 +1,12 @@
+<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Eid._Default" %>
+
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+
+    <div class="jumbotron">
+        <h1>Eid Al-Adha 1445</h1>
+        <p class="lead" style="text-align: center">May God bless you with the holidays for eternity, and may God cover you with light from his piety. Eid Mubarak.</p>
+         <p class="lead">أدام الله عليكم الأعياد دهورًا، وألبسكم الله من تقواه نورًا، كلّ عامٍ وأنتم بخير، عيدكم مبارك</p>
+        <p>&nbsp;</p>
+    </div>
+
+</asp:Content>
